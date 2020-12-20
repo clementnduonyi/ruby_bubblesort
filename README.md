@@ -1,1 +1,1 @@
-# ruby_burblesort
+# ruby_bubblesort
